@@ -1,0 +1,14 @@
+{
+  "name"         : "eshopee",
+  "version"      : "0.0.0",
+  "description"  : "Shopping Portal",
+  "main"         : "server.js",
+  "author"       : "Anshul",
+  "dependencies" : {
+    "express"    : "latest",
+    "mongoose"   : "latest",
+    "morgan"	 :"latest",
+    "body-parser":"latest",
+    "method-override":"latest"
+  }
+}
